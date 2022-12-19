@@ -1,0 +1,64 @@
+{
+    "departmentName": "Computer Science",
+    "departmentAddress": "2366 Main Mall #201, Vancouver, BC V6T 1Z4",
+    "departmentPhone": "(604) 822-3061",
+    "departmentCode": "CPSC",
+    "professors": [
+        {
+            "address": "Vancouver",
+            "phone": "123-123-1234",
+            "endDate": "",
+            "name": "bob",
+            "email": "bob@ubc.ca",
+            "startDate": "2022-11",
+            "genderType": "MALE"
+        },
+        {
+            "address": "Seattle",
+            "phone": "213123213",
+            "endDate": "",
+            "name": "June",
+            "email": "june@bub.com",
+            "startDate": "2022-11",
+            "genderType": "MALE"
+        },
+        {
+            "address": "Vancouver",
+            "phone": "123-123-1234",
+            "endDate": "",
+            "name": "howard",
+            "email": "hhh@gmail.com",
+            "startDate": "2022-11",
+            "genderType": "MALE"
+        },
+        {
+            "address": "asd",
+            "phone": "asd",
+            "endDate": "2022-12",
+            "name": "asdf",
+            "email": "asd",
+            "startDate": "2022-12",
+            "genderType": "MALE"
+        }
+    ],
+    "students": [
+        {
+            "address": "asdfsdf",
+            "phone": "asdfasf",
+            "endDate": "",
+            "name": "bob",
+            "email": "asdfasf",
+            "startDate": "2022-11",
+            "genderType": "MALE"
+        },
+        {
+            "address": "sadgasdg",
+            "phone": "asgasdg",
+            "endDate": "",
+            "name": "asdgasgd",
+            "email": "asdgasdg",
+            "startDate": "2022-11",
+            "genderType": "MALE"
+        }
+    ]
+}
