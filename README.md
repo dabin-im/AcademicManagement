@@ -1,3 +1,5 @@
+# My Personal Project
+
 ## The Academic management application
 The purpose of this program is to manage people who engaged in university because there are a lot of students and professor at university.
 For example, the science department needs to know every student and professor information.
@@ -10,6 +12,7 @@ This program consists of three main parts.
 - This application can manage all models such as Department, Course, Professor, and student using Administration class.
 - The department are available to see its information and have information regarding students and professors.
 - The department can manage information of all students and professor
+
 
 A *To-do* list:
 - As a user, I want to be able to add and update department information
