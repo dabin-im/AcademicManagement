@@ -37,6 +37,7 @@ A *To-do* list:
 [CASE 1: When a user create new department and save information]
 
 =============== EVENT LOG ===============
+
 Wed Nov 30 15:53:25 PST 2022
 create a department
 
@@ -81,6 +82,7 @@ Save department through JSON
 [CASE 2: When a user load existing department and save information]
 
 =============== EVENT LOG ===============
+
 Fri Dec 02 21:55:37 PST 2022
 Load the department from JSON
 
