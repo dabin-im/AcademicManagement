@@ -9,7 +9,7 @@ Moreover, the department needs to know how many student or professor they have
 Every student and professor can apply for graduation and retirement, and they are able to see the date when they graduated or retired
 
 This program consists of three main parts. 
-- This application can manage all models such as Department, Course, Professor, and student using Administration class.
+- This application can manage all models such as Department, Professor, and Student using Administration class.
 - The department are available to see its information and have information regarding students and professors.
 - The department can manage information of all students and professor
 
